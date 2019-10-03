@@ -26,4 +26,8 @@ Flask
 
 
 
+![Login Page](https://github.com/deepaksharma1992/Image-Detector-Flask-Stripe-/blob/master/login.PNG)
+![Payment Page](https://github.com/deepaksharma1992/Image-Detector-Flask-Stripe-/blob/master/stripe_payment_screen.PNG)
+![Payment Dashboard](https://github.com/deepaksharma1992/Image-Detector-Flask-Stripe-/blob/master/stripe_dashboard.PNG)
+![Classification Page](https://github.com/deepaksharma1992/Image-Detector-Flask-Stripe-/blob/master/classification_result.PNG)
 
