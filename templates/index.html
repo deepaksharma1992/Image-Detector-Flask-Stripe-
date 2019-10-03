@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <div>
+    <h2>Detect anything for  for $1.00</h2>
+    <form action="/charge" method="post">
+      <script
+        src="https://checkout.stripe.com/checkout.js"
+        class="stripe-button"
+        data-key="{{ key }}"
+        data-description="A small contribution"
+        data-amount="100"
+        data-locale="auto">
+      </script>
+    </form>
+  </div>
+{% endblock %}
